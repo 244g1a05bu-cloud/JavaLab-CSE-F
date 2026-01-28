@@ -1,9 +1,5 @@
 # Additional-4
-# TITLE: Additional-4}
-}
-```
-# output
-![screenshot](exp_additional-4.png). ) Java program to check if a number is a perfect number
+# TITLE: Additional-4. ) Java program to check if a number is a perfect number
 ```
 import java.util.Scanner;
 
@@ -32,7 +28,7 @@ class Perfect {
             System.out.println("num is not a perfect number");
         }
     }
-    }
+}
 }
 ```
 # output
